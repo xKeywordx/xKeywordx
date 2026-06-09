@@ -19,7 +19,7 @@ You can check my public profile [here](https://audits.sherlock.xyz/watson/xKeywo
 | TRUFIN               | Solidity | ERC4626 & Staking                          | [📄](./audit-reports/TRUFIN-PolygonLiquidStaking.pdf)       |
 | TOKENTABLE           | Cairo    | Chainlink integration                      | [📄](./audit-reports/TOKENTABLE-ChainlinkIntegration.pdf)   |
 | VANA                 | Solidity | Staking & rewards distribution & migration | [📄](./audit-reports/VANA-DLPIncentiveCodeRefactor.pdf)     |
-| WORLDCOIND           | Solidity | Rewards distribution                       | [📄](./audit-reports/WORLDCOIN-GrantsContracts.pdf)         |
+| WORLDCOIN            | Solidity | Rewards distribution                       | [📄](./audit-reports/WORLDCOIN-GrantsContracts.pdf)         |
 | MELLOW               | Solidity | DEX swaps                                  | [📄](./audit-reports/MELLOW-SwapModule.pdf)                 |
 | KING                 | Solidity | LayerZero integration                      | [📄](./audit-reports/KING-LayerZeroIntegration.pdf)         |
 | IDOS                 | Solidity | Node staking                               | [📄](./audit-reports/IDOS-NodeStaking.pdf)                  |
