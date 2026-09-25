@@ -8,6 +8,10 @@
 In my free time, I participate in public competitive audits on platforms such as Sherlock, Code4rena, CodeHawks, and Immunefi.
 You can check my public profile [here](https://audits.sherlock.xyz/watson/xKeywordx).
 
+| Crit | High | Med | Low | Info | Best Practice |
+| :--- | :--- | :-- | :-- | :--- | :------------ |
+| 21   | 36   | 36  | 140 | 183  | 111           |
+
 ## (some) Private Audits done under Nethermind
 
 | Project              | Language | Type                                       | Report                                                      |
