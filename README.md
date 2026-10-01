@@ -29,6 +29,7 @@ You can check my public profile [here](https://audits.sherlock.xyz/watson/xKeywo
 | IDOS                 | Solidity | Node staking                               | [📄](./audit-reports/IDOS-NodeStaking.pdf)                  |
 | ETH_STRAT            | Solidity | ERC4626 Vault & staking                    | [📄](./audit-reports/ETH_STRAT-Vaults.pdf)                  |
 | BlueGoldOne          | Solidity | Gold-backed ERC20                          | [📄](./audit-reports/BLUEGOLDONE-ERC20.pdf)                 |
+| Infrared             | Solidity | Swap routing infrastructure                | [📄](./audit-reports/INFRARED.pdf)                 |
 
 For privacy reasons, not all clients can be named, but apart from the ones shared above, below is a list with other `Types` of protocols that I've audited under Nethermind:
 
